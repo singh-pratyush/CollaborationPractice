@@ -13,16 +13,6 @@ class Calculator:
     
     def power(base: float, exponent: int) -> float:
         pass
-    
-
-<<<<<<< Updated upstream
-        Args:
-            base (float): The number to raise.
-            exponent (float): The power to raise the number to.
-
-        Returns:
-            float: The result of raising the number to the power.
-        """
 
 assert Calculator.multiply(2, 3) == 6
 assert Calculator.divide(6, 2) == 3
