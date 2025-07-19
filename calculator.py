@@ -1,6 +1,6 @@
 class Calculator:
     def multiply(factor1: float, factor2: float) -> float:
-        pass
+        factor1 * factor2
 
     def divide(dividend: float, divisor: float) -> float:
         pass
