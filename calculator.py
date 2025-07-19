@@ -24,9 +24,6 @@ class Calculator:
             float: The result of raising the number to the power.
         """
 
-# Don't 
-=======
->>>>>>> Stashed changes
 assert Calculator.multiply(2, 3) == 6
 assert Calculator.divide(6, 2) == 3
 assert Calculator.add(2, 3) == 5
